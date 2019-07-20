@@ -1,0 +1,11 @@
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.csprojAssemblyReference.cache
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.csproj.CoreCompileInputs.cache
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.AssemblyInfoInputs.cache
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.AssemblyInfo.cs
+C:\Users\zilva\source\repos\Learning\bin\Debug\netcoreapp2.1\CSharpFundementals.deps.json
+C:\Users\zilva\source\repos\Learning\bin\Debug\netcoreapp2.1\CSharpFundementals.runtimeconfig.json
+C:\Users\zilva\source\repos\Learning\bin\Debug\netcoreapp2.1\CSharpFundementals.runtimeconfig.dev.json
+C:\Users\zilva\source\repos\Learning\bin\Debug\netcoreapp2.1\CSharpFundementals.dll
+C:\Users\zilva\source\repos\Learning\bin\Debug\netcoreapp2.1\CSharpFundementals.pdb
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.dll
+C:\Users\zilva\source\repos\Learning\obj\Debug\netcoreapp2.1\CSharpFundementals.pdb
