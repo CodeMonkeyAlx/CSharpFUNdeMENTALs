@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zilva\\source\\repos\\Learning\\CSharpFundementals.csproj",
+      "projectUniqueName": "C:\\Users\\zilva\\Documents\\GitHub\\CSharpFUNdeMENTALs\\CSharpFundementals.csproj",
       "projectName": "CSharpFundementals",
-      "projectPath": "C:\\Users\\zilva\\source\\repos\\Learning\\CSharpFundementals.csproj",
+      "projectPath": "C:\\Users\\zilva\\Documents\\GitHub\\CSharpFUNdeMENTALs\\CSharpFundementals.csproj",
       "packagesPath": "C:\\Users\\zilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zilva\\source\\repos\\Learning\\obj\\",
+      "outputPath": "C:\\Users\\zilva\\Documents\\GitHub\\CSharpFUNdeMENTALs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
