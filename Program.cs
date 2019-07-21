@@ -33,7 +33,6 @@ namespace CSharpFundementals {
             alex.Weight = 270; 
             alex.Introduce();
         }
-
         public static void Addition() //A Basic example of the calculator addition code found in /Demo/Calculator.cs
         {
             Output("Demo Calculation: ");
