@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using CSharpFundementals.Demo;
 
 namespace CSharpFundementals.Demo
 {
@@ -9,7 +10,10 @@ namespace CSharpFundementals.Demo
         public string FirstName, LastName;
         public int Age, Weight;
 
-
+        public static void Output(string txt)
+        {
+            Console.WriteLine(txt);
+        }
         public static void Email()
         {
             //Using verbatum strings to emulate an email message. Interesting.
@@ -25,7 +29,7 @@ Take look in the following directories:
 
 Thank you kindly,
 - Alex";
-            Console.WriteLine(message);
+            Output(message);
         }
         static void Description()
         {
@@ -34,13 +38,13 @@ Thank you kindly,
             var DreamJob = "Game Development";
             //Just a little bit of interpolation here. :P
             var ProfileDesc = string.Format("I love {0}. \nI am also very Passionate about {1}. \nSo it only stands to reason I would want to be a {2}\n", Hobby, Passion, DreamJob);
-            Console.WriteLine(ProfileDesc);
+            Output(ProfileDesc);
         }
 
         public void Introduce()
         {
             //Standard concatination.
-            Console.WriteLine("Hello my name is: " + FirstName + " " + LastName + "\nI am " + Age + " years old and weigh: " + Weight + " lbs.");
+            Output("Hello my name is: " + FirstName + " " + LastName + "\nI am " + Age + " years old and weigh: " + Weight + " lbs.");
             Description();
             Email();
         }
